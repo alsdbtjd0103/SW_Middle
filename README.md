@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# NowMeet:우리 지금 만나
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
